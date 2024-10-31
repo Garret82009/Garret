@@ -32,6 +32,12 @@
   mv = rename files
 
   cat = show contents of a file 
+  
+  cd ~ = Go to home directory
+
+  cd .. = Move up a level
+
+
                  -----------------------------------------------------------
                                         NETWORKING
                  -----------------------------------------------------------
