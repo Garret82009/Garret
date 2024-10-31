@@ -37,6 +37,8 @@
 
   cd .. = Move up a level
 
+  cd / = goes to root directory
+
 
                  -----------------------------------------------------------
                                         NETWORKING
