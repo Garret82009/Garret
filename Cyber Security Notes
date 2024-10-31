@@ -1,0 +1,99 @@
+  _____      _                                          _ _                       _            
+  / ____|    | |                                        (_) |                     | |           
+ | |    _   _| |__   ___ _ __   ___  ___  ___ _   _ _ __ _| |_ _   _   _ __   ___ | |_ ___  ___ 
+ | |   | | | | '_ \ / _ \ '__| / __|/ _ \/ __| | | | '__| | __| | | | | '_ \ / _ \| __/ _ \/ __|
+ | |___| |_| | |_) |  __/ |    \__ \  __/ (__| |_| | |  | | |_| |_| | | | | | (_) | ||  __/\__ \
+  \_____\__, |_.__/ \___|_|    |___/\___|\___|\__,_|_|  |_|\__|\__, | |_| |_|\___/ \__\___||___/
+         __/ |                                                  __/ |                           
+        |___/                                                  |___/                            
+                 -----------------------------------------------------------
+                                     BASIC LINUX COMMANDS
+                 -----------------------------------------------------------
+  Creating, reading, updating, and deleting files - touch, nano,rm,mv,cp  
+
+  Nano = a note pad thats runs terminal
+
+  Pwd  = print working dirctory (shows your current directory location)
+
+  ls   = list display the files and directions in the current directory
+
+  cd   = change directory in terminal
+
+  cd.. = move up in directory 
+
+  mkdir = create new directory
+
+  touch = create an empty file
+
+  rm = remove a file
+
+  cp = copy files
+
+  mv = rename files
+
+  cat = show contents of a file 
+                 -----------------------------------------------------------
+                                        NETWORKING
+                 -----------------------------------------------------------
+  ping = test network connectivity
+
+  ifconfig or ip a = View network interfaces and IP addresses
+
+  traceroute = traces the route packets take
+
+  netstat = display network connections
+
+                 -----------------------------------------------------------
+                                 OTHER TERMINAL COMMANDS
+                 -----------------------------------------------------------
+  kill = deletes everything in your terminal
+
+  free = shows how much memory and storage is free
+
+  du = shows diffrent directory sizes
+          
+                 -----------------------------------------------------------
+                                     GIT/GIT KRAKEN
+                 -----------------------------------------------------------
+
+  Git is a control system used for tracking and changes files, its often 
+  used for managing code in software development.
+  It allows multiple people to collaborate on a project by looking at changes,
+  merging updates, and maintaining a history of all changes made to a certain file.
+
+  git init - Initializes a new Git repository in the current directory.
+
+  git clone <repository-url> - Creates a copy of an existing repository 
+  from a remote server (like GitHub, Gitkraken) to your local computer.
+
+  git add <fileName> - Stages the changes in <fileName> for the next commit.
+ 
+  git commit - Commits the staged changes to the repository.
+
+  git push - pushes changes made in file to git.  
+
+  git pull - pulls updates/changes from repository
+    
+    
+    Git Kraken is a simpilair GUI (graphical user interface) that makes the
+    procces of git much easier and user friendly.
+
+
+
+
+                 -----------------------------------------------------------
+                                     BASH SCRIPTING
+                 -----------------------------------------------------------
+  Bash scripting is a series of commands writin in a text file exacuted by bash shell.
+   These scripts can be used to automate tasks and monitor computer performance
+
+  
+  Shebang - (#!) specifies the shell interprator (the command line interface between user and os)
+ 
+ "If else" statments - check statments and then exacute code based on the value being true or false.
+  
+  Comments - Comments are peices of text in script that dont exacute any command but rather tell you what the script is doing.
+
+  Variables - variables in bash allow you to store data (in quotations) and reuse it in your script. 
+  
+  Regex - (regular expression) is a command that uses paterns and certain characters to help you find/ fix test easier.
